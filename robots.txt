@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://brian546.github.io/sitemap.xml
